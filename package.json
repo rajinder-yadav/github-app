@@ -1,0 +1,17 @@
+{
+  "name": "github-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graphql", "github", "js", "node", "gql", "javascript"],
+  "author": "Rajinder Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.6.1"
+  }
+}
